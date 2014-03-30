@@ -28,7 +28,9 @@ Player 2 or the computer is represented with a 'O' symbol.
 Instructions to run the program:
 
 Step 1. Run TicTacToeGUI.jar in the dist folder
+
 Step 2. Select whether to play 3x3 or 4x4 and Single or Double.
+
   1) Note: in 4x4, traditional rules still apply - first to 3 in a row wins!
 
 Enjoy!
