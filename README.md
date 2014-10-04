@@ -33,4 +33,9 @@ Step 2. Select whether to play 3x3 or 4x4 and Single or Double.
 
 	1) Note: in 4x4, traditional rules still apply - first to 3 in a row wins!
 
+
+#Screenshot:
+
+![](http://puu.sh/bZsCv/9f83a26d9b.png)
+
 Enjoy!
