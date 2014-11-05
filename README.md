@@ -36,6 +36,5 @@ Step 2. Select whether to play 3x3 or 4x4 and Single or Double.
 
 #Screenshot:
 
-![](http://puu.sh/bZsCv/9f83a26d9b.png)
-
+![](http://puu.sh/cDXhF/1d8284392c.png)
 Enjoy!
